@@ -14,7 +14,7 @@ test.beforeAll(async () => {
 });
 
 
-test("API injected UI TestCase", async ({ page }) => {
+test("@API injected UI TestCase", async ({ page }) => {
 
     page.addInitScript(value => {
 

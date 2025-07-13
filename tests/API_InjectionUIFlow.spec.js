@@ -20,7 +20,7 @@ test.beforeAll(async() => {
 });
 
 
-test("API injected UI TestCase", async ({page}) => {
+test("@API injected UI TestCase", async ({page}) => {
 
 
    //await page.goto("https://rahulshettyacademy.com/client");

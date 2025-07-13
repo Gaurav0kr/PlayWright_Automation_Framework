@@ -16,7 +16,7 @@ test('Listing products',async ({page})=>
     console.log(titles);
     
 });
-test.only ('UI-Control',async ({page})=>
+test ('UI-Control',async ({page})=>
 {
 
     await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
