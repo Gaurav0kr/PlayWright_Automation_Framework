@@ -20,7 +20,6 @@ const config = ({
   ],
   use: {
 
-    browserName:'webkit',
     screenshot:'on',
     //trace:'on',
     trace:'retain-on-failure'
